@@ -138,3 +138,118 @@ padding: 10px 10px
 }
 
 
+@media (max-width: 915px) {
+    .third2  {
+        background-color: rgb(219, 219, 21);
+        width: 95%;
+        height: 30px;
+        margin: 10px;
+    }
+
+    .containerTwo {
+        background-color: yellow;
+        width: cover;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        margin-top: 20px;
+        flex-wrap: wrap;
+        padding: 10px;
+        }
+
+    .fourth {
+        background-color: gray;
+        height: 300px;
+       width: 95%;;
+       display: flex;
+       flex-wrap: wrap;
+       padding: 10px 10px
+       }
+
+    .contain1{
+        background-color: rgb(18, 82, 245);
+    width: 95%;
+    height: 30px;
+    margin: 10px;
+    }
+       
+       .five {
+        width: 95%;
+        background-color: rgb(252, 62, 62);
+        height: 25%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .containerThree {
+        background-color: black;
+        width: cover;
+        height: 80px;
+        margin-top: 20px;   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .third2  {
+        background-color: rgb(219, 219, 21);
+        width: 100%;
+        height: 25px;
+        margin: 28px;
+    }
+    .box {
+        background-color: black;
+        width: cover;
+        height: 180px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 10px;
+    }
+    .second {
+        background-color: orange;
+        width: 95%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .first {
+        background-color: gray;
+        width: 95%;
+        height: 60px;   
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .redBox {
+        width: 20%; 
+    }
+    .contain {
+        
+        width: 20%;
+        
+    }
+    
+    .medium  {
+        
+        width: 60%;
+      
+    }
+    .third  {
+        background-color: yellow;
+        width: 95%;
+        height: 25px;
+        margin: 30px;
+    }
+    
+  }
+
+ 
